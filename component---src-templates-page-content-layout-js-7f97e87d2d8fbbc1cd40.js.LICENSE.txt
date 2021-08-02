@@ -7,3 +7,5 @@
  * html-attributes
  * https://github.com/alexmingoia/html-attributes
  */
+
+/*! https://mths.be/he v1.2.0 by @mathias | MIT license */
